@@ -1,2 +1,4 @@
 # Capstone-2-BikeSharingPrediction-Regression-
-Machine Learning Regression project on Seoul Bike Sharing Demand Prediction dataset
+The Seoul Bike Sharing Prediction dataset is a dataset that contains information about the rental bikes in the city of Seoul, South Korea. The dataset includes hourly bike rental data over a period of two years, from 2017 to 2018. It contains features such as the date and time of the rental, the weather conditions, the temperature, the humidity, and the wind speed. The target variable is the number of bikes rented for each hour.
+
+This dataset is used to build machine learning models for predicting the number of bikes that will be rented in a given hour, based on the weather conditions and other features. This has practical applications for bike sharing companies, as it can help them to optimize their operations and better meet the demand for bike rentals.
